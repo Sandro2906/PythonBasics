@@ -1,0 +1,1 @@
+A collection of exercises and mini projects covering Python basics: variables, conditionals, loops, lists, dictionaries, functions, string methods, try/except, file handling and JSON, modules and imports, and OOP (classes, inheritance). Final mini project: a console Library app.
